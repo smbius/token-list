@@ -63923,6 +63923,22 @@
         "website": "https://boredapesocial.club"
       }
     },
+	{
+      "chainId": 101,
+      "address": "8fQGQPkJsYeH5fTM7tBPHVWYmdQyww3uBUkDFnyTeaeJ",
+      "symbol": "LACO",
+      "name": "Laconia Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8fQGQPkJsYeH5fTM7tBPHVWYmdQyww3uBUkDFnyTeaeJ/logo.png",
+	   "tags": [
+        "social-token",
+        "community-token"
+      ]	  
+      "extensions": {
+        "twitter": "",
+        "website": ""
+      }
+    },	
     {
       "chainId": 101,
       "address": "DfLX2gHyT75Y8Buh1tWt6MD3czKirJWKuTSwhPstPJd8",
